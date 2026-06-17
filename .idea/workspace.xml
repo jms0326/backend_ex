@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a038bfce-5ba9-4b90-9f1f-70fa8c6e18ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JUNE_17/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_17/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_17/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_17/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jms0326&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jms0326/backend_ex.git&quot;,
+    &quot;accountId&quot;: &quot;4935a3c5-828e-4f00-a660-bd6500773843&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5989370326947093E-38" />
+      <entry key="MS500" value="4.017954471938904E-8" />
+      <entry key="S2" value="0.05150473084644774" />
+      <entry key="S5" value="1.1556676609881313" />
+      <entry key="S10" value="3.3715194571394145" />
+      <entry key="S30" value="7.317539550566463" />
+      <entry key="S60" value="10.923992084781842" />
+      <entry key="M2" value="16.241545665269907" />
+      <entry key="M5" value="22.83211796506035" />
+      <entry key="M10" value="26.054191632938014" />
+      <entry key="M15" value="27.281226900366573" />
+      <entry key="M30" value="28.594358584483462" />
+      <entry key="H1" value="29.285196164083814" />
+      <entry key="H2" value="29.63954818087116" />
+      <entry key="H4" value="29.81900474150381" />
+      <entry key="D1" value="29.969726681026835" />
+      <entry key="W1" value="29.995672601191114" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000017386" />
+      <entry key="S10" value="1.0000018147650533" />
+      <entry key="S30" value="1.019239695603294" />
+      <entry key="S60" value="1.1960038930478716" />
+      <entry key="M2" value="1.6259791581752394" />
+      <entry key="M5" value="2.2566691269405794" />
+      <entry key="M10" value="2.585338367125666" />
+      <entry key="M15" value="2.712999360350204" />
+      <entry key="M30" value="2.850943700959175" />
+      <entry key="H1" value="2.9240285195984193" />
+      <entry key="H2" value="2.9616464024921747" />
+      <entry key="H4" value="2.9807303438838164" />
+      <entry key="D1" value="2.9967754172876138" />
+      <entry key="W1" value="2.999539026609476" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.635669178678453E-17" />
+      <entry key="MS500" value="5.410685286146641E-4" />
+      <entry key="S2" value="0.2032283840879448" />
+      <entry key="S5" value="1.6208839166726758" />
+      <entry key="S10" value="4.049621279057837" />
+      <entry key="S30" value="8.212274130252258" />
+      <entry key="S60" value="12.050520834265653" />
+      <entry key="M2" value="17.82635458708839" />
+      <entry key="M5" value="25.068784941847877" />
+      <entry key="M10" value="28.62862555004914" />
+      <entry key="M15" value="29.986723927782503" />
+      <entry key="M30" value="31.44142570525409" />
+      <entry key="H1" value="32.20725322864971" />
+      <entry key="H2" value="32.600200327842316" />
+      <entry key="H4" value="32.79923579536036" />
+      <entry key="D1" value="32.966418580394524" />
+      <entry key="W1" value="32.99519968921671" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FF7xj16R0r77Sa84gE7ga1h02M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUNE_17.Ex01" />
+      <module name="backend_ex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a038bfce-5ba9-4b90-9f1f-70fa8c6e18ae" name="Changes" comment="" />
+      <created>1781659211636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781659211636</updated>
+      <workItem from="1781659212660" duration="556000" />
+      <workItem from="1781659783613" duration="137000" />
+      <workItem from="1781659933296" duration="3671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
