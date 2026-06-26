@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a038bfce-5ba9-4b90-9f1f-70fa8c6e18ae" name="Changes" comment="feat : commit">
-      <change afterPath="$PROJECT_DIR$/src/JUNE_22/TruckBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JUNE_24/Solution07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/HouseEngineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/Solution07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/java_custom_exceptions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/java_exception_handling.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/java_exception_propagation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/java_resource_cleanup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/oop/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/oop/AppProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JUNE_26/oop/AppService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JUNE_22/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JUNE_22/RightBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +28,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="42" />
+    <option name="cachedIndexableFilesCount" value="71" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
         <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,61 +61,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7320428479728127" />
-      <entry key="MS500" value="1.9395227496604153" />
-      <entry key="S2" value="1.994350875071067" />
-      <entry key="S5" value="2.4578603234236427" />
-      <entry key="S10" value="3.86878376619049" />
-      <entry key="S30" value="6.899202056864955" />
-      <entry key="S60" value="8.356428058649621" />
-      <entry key="M2" value="10.238069561224957" />
-      <entry key="M5" value="15.83757296953116" />
-      <entry key="M10" value="24.3078842972401" />
-      <entry key="M15" value="32.29117746610283" />
-      <entry key="M30" value="50.050403218579234" />
-      <entry key="H1" value="70.45875453452628" />
-      <entry key="H2" value="101.7057880514737" />
-      <entry key="H4" value="146.4632932357819" />
-      <entry key="D1" value="247.41710643011263" />
-      <entry key="W1" value="280.6389390970153" />
+      <entry key="MS100" value="1.0009765771960124" />
+      <entry key="MS500" value="1.2771293888847146" />
+      <entry key="S2" value="2.1333597201483254" />
+      <entry key="S5" value="3.1997671783452244" />
+      <entry key="S10" value="5.411488000785168" />
+      <entry key="S30" value="11.667390233704936" />
+      <entry key="S60" value="15.450998650680022" />
+      <entry key="M2" value="18.61878589552308" />
+      <entry key="M5" value="22.263402601660264" />
+      <entry key="M10" value="24.264969760870496" />
+      <entry key="M15" value="25.12953979909919" />
+      <entry key="M30" value="27.977454085234903" />
+      <entry key="H1" value="40.533163052422616" />
+      <entry key="H2" value="72.15955292551527" />
+      <entry key="H4" value="124.7478006569167" />
+      <entry key="D1" value="258.3215076882129" />
+      <entry key="W1" value="304.9556725058218" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="5.8219568520973595E-164" />
-      <entry key="S10" value="2.4611298020047908E-82" />
-      <entry key="S30" value="8.907217528722214E-28" />
-      <entry key="S60" value="4.8104769444705515E-14" />
-      <entry key="M2" value="3.7313815711157674E-7" />
-      <entry key="M5" value="0.005166771008591925" />
-      <entry key="M10" value="0.1244164919000713" />
-      <entry key="M15" value="0.35939230986829884" />
-      <entry key="M30" value="1.046271788512431" />
-      <entry key="H1" value="2.0854520508656087" />
-      <entry key="H2" value="4.513206250213229" />
-      <entry key="H4" value="8.998218709944487" />
-      <entry key="D1" value="21.003811946564838" />
-      <entry key="W1" value="25.19212634357191" />
+      <entry key="MS100" value="1.6863336208469824E-85" />
+      <entry key="MS500" value="1.1843273090714199E-17" />
+      <entry key="S2" value="8.706829173761955E-5" />
+      <entry key="S5" value="0.035544383226869085" />
+      <entry key="S10" value="0.26601856942813085" />
+      <entry key="S30" value="1.0204865616119023" />
+      <entry key="S60" value="1.4378292342360002" />
+      <entry key="M2" value="1.7869452974980846" />
+      <entry key="M5" value="2.2626288332934124" />
+      <entry key="M10" value="2.560573054264872" />
+      <entry key="M15" value="2.688568321137926" />
+      <entry key="M30" value="2.8751061456832865" />
+      <entry key="H1" value="3.3298852661087572" />
+      <entry key="H2" value="4.971901787804628" />
+      <entry key="H4" value="8.99139541797963" />
+      <entry key="D1" value="22.63560672370988" />
+      <entry key="W1" value="27.951013695070156" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8249013754310562" />
-      <entry key="MS500" value="1.5017172529977154" />
-      <entry key="S2" value="1.8554734003748778" />
-      <entry key="S5" value="2.3449819099081495" />
-      <entry key="S10" value="3.7403005543809758" />
-      <entry key="S30" value="6.811390318282166" />
-      <entry key="S60" value="8.30263549159331" />
-      <entry key="M2" value="10.205382988844862" />
-      <entry key="M5" value="15.821384438995565" />
-      <entry key="M10" value="24.414537075714513" />
-      <entry key="M15" value="32.634585869278354" />
-      <entry key="M30" value="51.084424201274906" />
-      <entry key="H1" value="72.53581112998002" />
-      <entry key="H2" value="106.21312381977054" />
-      <entry key="H4" value="155.45736198947571" />
-      <entry key="D1" value="268.41978204823226" />
-      <entry key="W1" value="305.8308831403598" />
+      <entry key="MS100" value="0.5007661956927704" />
+      <entry key="MS500" value="1.1210373635526678" />
+      <entry key="S2" value="2.0178119635469978" />
+      <entry key="S5" value="3.1502559646514845" />
+      <entry key="S10" value="5.58365562039376" />
+      <entry key="S30" value="12.5964557593644" />
+      <entry key="S60" value="16.82427841001076" />
+      <entry key="M2" value="20.364582834513346" />
+      <entry key="M5" value="24.50468208404328" />
+      <entry key="M10" value="26.813405379562827" />
+      <entry key="M15" value="27.80958508095298" />
+      <entry key="M30" value="30.84759483834667" />
+      <entry key="H1" value="43.859072037217196" />
+      <entry key="H2" value="77.12766561945578" />
+      <entry key="H4" value="133.73583487041176" />
+      <entry key="D1" value="280.95595334616553" />
+      <entry key="W1" value="332.90649154730437" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -117,6 +123,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3FF7xj16R0r77Sa84gE7ga1h02M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -126,10 +135,13 @@
     "Application.Ex01.executor": "Run",
     "Application.Ex05.executor": "Run",
     "Application.JUNE_18.Ex01.executor": "Run",
+    "Application.JUNE_24.Solution01.executor": "Run",
     "Application.RightBracket.executor": "Run",
     "Application.Solution01.executor": "Run",
     "Application.Solution02.executor": "Run",
     "Application.Solution04.executor": "Run",
+    "Application.Solution05.executor": "Run",
+    "Application.Solution07.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -144,17 +156,22 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RightBracket">
-    <configuration name="JUNE_18.Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUNE_18.Ex01" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JUNE_26" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution07">
+    <configuration name="JUNE_24.Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUNE_24.Solution01" />
       <module name="backend_ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUNE_18.*" />
+          <option name="PATTERN" value="JUNE_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +192,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUNE_19.Solution01" />
-      <module name="backend_ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JUNE_19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JUNE_24.Solution02" />
       <module name="backend_ex" />
@@ -201,12 +205,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JUNE_19.Solution04" />
+    <configuration name="Solution05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUNE_24.Solution05" />
       <module name="backend_ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JUNE_19.*" />
+          <option name="PATTERN" value="JUNE_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JUNE_26.Solution07" />
+      <module name="backend_ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JUNE_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution07" />
+        <item itemvalue="Application.Solution05" />
+        <item itemvalue="Application.JUNE_24.Solution01" />
         <item itemvalue="Application.RightBracket" />
         <item itemvalue="Application.Solution02" />
-        <item itemvalue="Application.Solution04" />
-        <item itemvalue="Application.Solution01" />
-        <item itemvalue="Application.JUNE_18.Ex01" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +265,10 @@
       <workItem from="1781955817094" duration="7000" />
       <workItem from="1782086317605" duration="7773000" />
       <workItem from="1782169750903" duration="9766000" />
-      <workItem from="1782264280889" duration="6807000" />
+      <workItem from="1782264280889" duration="13317000" />
+      <workItem from="1782345112394" duration="1692000" />
+      <workItem from="1782431650935" duration="546000" />
+      <workItem from="1782434595411" duration="5104000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -306,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782264929899</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat : commit">
+      <option name="closed" value="true" />
+      <created>1782283098082</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782283098082</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,5 +344,9 @@
     <MESSAGE value="commit" />
     <MESSAGE value="feat : commit" />
     <option name="LAST_COMMIT_MESSAGE" value="feat : commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
